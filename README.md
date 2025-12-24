@@ -44,7 +44,6 @@ It communicates with a **Spring Boot backend** using REST APIs secured by **JWT 
 
 ## 🧩 Expense Categories
 
-```txt
 FOOD | TRANSPORT | RENT | SHOPPING | BILLS | OTHER
 Fetched dynamically from backend API.
 
@@ -69,7 +68,7 @@ cd expense-tracker-frontend
 npm install
 npm run dev
 📁 Folder Structure
-txt
+
 Copy code
 src/
 ├── components/
