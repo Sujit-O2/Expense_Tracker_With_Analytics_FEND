@@ -63,8 +63,7 @@ Axios / Fetch API
 ⚙️ Setup
 bash
 Copy code
-git clone https://github.com/your-username/expense-tracker-frontend.git
-cd expense-tracker-frontend
+git clone https://github.com/Sujit-O2/Expense_Tracker_With_Analytics_FEND
 npm install
 npm run dev
 📁 Folder Structure
