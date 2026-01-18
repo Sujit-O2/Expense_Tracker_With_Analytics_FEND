@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="160" alt="Expense Tracker Frontend Logo"/>
+  
 </p>
 
 <h1 align="center">💰 Expense Tracker – Frontend</h1>
